@@ -51,7 +51,7 @@
     "babel-preset-env": "^1.7.0",
     "documentation": "^5.3.5",
     "eslint": "^4.16.0",
-    "jest": "^23.4.2",
+    "jest": "^24.0.0",
     "watch": "^1.0.2"
   },
   "dependencies": {
